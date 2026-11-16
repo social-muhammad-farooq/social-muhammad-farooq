@@ -101,16 +101,15 @@ I'm a software developer with **6+ years of production PHP experience**, buildin
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I Do
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=social-muhammad-farooq&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=social-muhammad-farooq&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=social-muhammad-farooq&theme=tokyonight&hide_border=true)
-
-</div>
+| | |
+|---|---|
+| 🏗️ **SaaS & APIs** | Laravel REST APIs, multi-tenant platforms, queues, scheduled jobs |
+| 💳 **Payments & Billing** | Stripe, PayPal, Chargebee, NMI, Pagadito: recurring billing & failure handling |
+| 💬 **WhatsApp & AI** | Meta Cloud API, broadcasts, webhooks, OpenAI-powered messaging workflows |
+| ⚙️ **Automation** | n8n, Make.com, Zapier, GoHighLevel: CRM and lead-to-invoice flows |
+| 👥 **Leadership** | Planning, task assignment, code reviews, release verification |
 
 ---
 
@@ -119,19 +118,3 @@ I'm a software developer with **6+ years of production PHP experience**, buildin
 **Open to remote roles and freelance projects. Let's build something great together.** 🤝
 
 </div>
-## Hi there 👋
-
-<!--
-**social-muhammad-farooq/social-muhammad-farooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
