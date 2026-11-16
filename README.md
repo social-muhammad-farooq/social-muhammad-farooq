@@ -4,10 +4,10 @@
 
 <p align="center">
 <a href="https://muhammad-farooq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/muhammad-farooq-07280227b/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSIjMUUyOTNCIiBkPSJNNi4yIDkuNmgyLjZWMThINi4yek03LjUgNS41YTEuNSAxLjUgMCAxMTAgMyAxLjUgMS41IDAgMDEwLTN6TTEwLjUgOS42SDEzdjEuMmMuNC0uNyAxLjMtMS40IDIuNy0xLjQgMi43IDAgMy4yIDEuOCAzLjIgNC4xVjE4aC0yLjZ2LTRjMC0xIDAtMi4yLTEuNC0yLjJzLTEuNiAxLTEuNiAyLjFWMThoLTIuNnoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/muhammad-farooq-07280227b/"><img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/linkedin.svg" height="28" alt="linkedin" /></a>
 <a href="mailto:muhammad.farooq.raaj@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/923058757575"><img src="https://img.shields.io/badge/WhatsApp-1E293B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://muhammad-farooq.vercel.app/Muhammad-Farooq-Resume.pdf"><img src="https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNCAySDZjLTEuMSAwLTEuOTkuOS0xLjk5IDJMNCAyMGMwIDEuMS44OSAyIDEuOTkgMkgxOGMxLjEgMCAyLS45IDItMlY4bC02LTZ6bTIgMTZIOHYtMmg4djJ6bTAtNEg4di0yaDh2MnptLTMtNVYzLjVMMTguNSA5SDEzeiIvPjwvc3ZnPg%3D%3D" alt="Resume" /></a>
+<a href="https://muhammad-farooq.vercel.app/Muhammad-Farooq-Resume.pdf"><img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/resume.svg" height="28" alt="resume" /></a>
 </p>
 
 <br>
@@ -29,9 +29,7 @@ I build backend systems that stay reliable under real traffic: queues, webhooks,
 - Automation workflows and background job processing with Laravel Queues and Artisan commands
 
 <p align="center">
-<img src="https://img.shields.io/badge/Currently-Team_Lead_at_5D_Solutions-2563EB?style=for-the-badge&labelColor=334155&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4%3D" alt="Currently" />
-<img src="https://img.shields.io/badge/Based_in-Rawalpindi%2C_Pakistan-2563EB?style=for-the-badge&labelColor=334155&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzguMTMgMiA1IDUuMTMgNSA5YzAgNS4yNSA3IDEzIDcgMTNzNy03Ljc1IDctMTNjMC0zLjg3LTMuMTMtNy03LTd6bTAgOS41Yy0xLjM4IDAtMi41LTEuMTItMi41LTIuNXMxLjEyLTIuNSAyLjUtMi41IDIuNSAxLjEyIDIuNSAyLjUtMS4xMiAyLjUtMi41IDIuNXoiLz48L3N2Zz4%3D" alt="Based in" />
-<img src="https://img.shields.io/badge/Open_to-Remote_%C2%B7_Freelance_%C2%B7_Contract--to--hire-16A34A?style=for-the-badge&labelColor=334155&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg%3D%3D" alt="Open to" />
+<img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/status.svg" width="100%" alt="Currently Team Lead at 5D Solutions. Based in Rawalpindi, Pakistan. Open to remote, freelance and contract-to-hire." />
 </p>
 
 ## Tech Stack
