@@ -120,8 +120,4 @@ Badminton and table tennis.
 <a href="mailto:muhammad.farooq.raaj@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-muhammad.farooq.raaj%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=social-muhammad-farooq&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile views" />
-</p>
-
 <img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/footer.svg" width="100%" alt="Let's build something reliable together" />
