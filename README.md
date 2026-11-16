@@ -67,7 +67,7 @@ I build backend systems that stay reliable under real traffic: queues, webhooks,
 
 ## What I Build
 
-<a href="https://muhammad-farooq.vercel.app"><img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/9dd87c0a296c9405a27eeb8233a6dd4d44040b0d/assets/cards.svg" width="100%" alt="Focus areas and selected work" /></a>
+<a href="https://muhammad-farooq.vercel.app"><img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/e19ddfd72b94d8f8a7f7a4b93a6c135e375ad5f8/assets/cards.svg" width="100%" alt="Focus areas and selected work" /></a>
 
 ## Experience
 
