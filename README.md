@@ -4,10 +4,10 @@
 
 <p align="center">
 <a href="https://muhammad-farooq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/muhammad-farooq-07280227b/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/muhammad-farooq-07280227b/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSIjMUUyOTNCIiBkPSJNNi4yIDkuNmgyLjZWMThINi4yek03LjUgNS41YTEuNSAxLjUgMCAxMTAgMyAxLjUgMS41IDAgMDEwLTN6TTEwLjUgOS42SDEzdjEuMmMuNC0uNyAxLjMtMS40IDIuNy0xLjQgMi43IDAgMy4yIDEuOCAzLjIgNC4xVjE4aC0yLjZ2LTRjMC0xIDAtMi4yLTEuNC0yLjJzLTEuNiAxLTEuNiAyLjFWMThoLTIuNnoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
 <a href="mailto:muhammad.farooq.raaj@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/923058757575"><img src="https://img.shields.io/badge/WhatsApp-1E293B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://muhammad-farooq.vercel.app/Muhammad-Farooq-Resume.pdf"><img src="https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="https://muhammad-farooq.vercel.app/Muhammad-Farooq-Resume.pdf"><img src="https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNCAySDZjLTEuMSAwLTEuOTkuOS0xLjk5IDJMNCAyMGMwIDEuMS44OSAyIDEuOTkgMkgxOGMxLjEgMCAyLS45IDItMlY4bC02LTZ6bTIgMTZIOHYtMmg4djJ6bTAtNEg4di0yaDh2MnptLTMtNVYzLjVMMTguNSA5SDEzeiIvPjwvc3ZnPg%3D%3D" alt="Resume" /></a>
 </p>
 
 <br>
@@ -20,10 +20,18 @@ I lead the development team at **5D Solutions**: requirements, task planning, co
 
 I build backend systems that stay reliable under real traffic: queues, webhooks, retries and safe automation. I work in test-driven environments and care about clean MVC structure, role-based access control and code other developers can maintain.
 
-<p>
-<img src="https://img.shields.io/badge/Currently-Team_Lead_at_5D_Solutions-2563EB?style=flat-square&labelColor=0b1220" alt="Currently" />
-<img src="https://img.shields.io/badge/Based_in-Rawalpindi%2C_Pakistan-2563EB?style=flat-square&labelColor=0b1220" alt="Based in" />
-<img src="https://img.shields.io/badge/Open_to-Remote_%C2%B7_Freelance_%C2%B7_Contract--to--hire-16A34A?style=flat-square&labelColor=0b1220" alt="Open to" />
+**Highlights**
+
+- Hands-on integration of payment gateways: Stripe, PayPal, Chargebee, NMI and Pagadito
+- API development, third-party integrations and automation with Zapier and GoHighLevel (GHL)
+- Custom SMTP email systems, authentication and role-based access control in Laravel
+- Strong grasp of MVC architecture, RESTful APIs and event-driven systems
+- Automation workflows and background job processing with Laravel Queues and Artisan commands
+
+<p align="center">
+<img src="https://img.shields.io/badge/Currently-Team_Lead_at_5D_Solutions-2563EB?style=for-the-badge&labelColor=334155&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4%3D" alt="Currently" />
+<img src="https://img.shields.io/badge/Based_in-Rawalpindi%2C_Pakistan-2563EB?style=for-the-badge&labelColor=334155&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzguMTMgMiA1IDUuMTMgNSA5YzAgNS4yNSA3IDEzIDcgMTNzNy03Ljc1IDctMTNjMC0zLjg3LTMuMTMtNy03LTd6bTAgOS41Yy0xLjM4IDAtMi41LTEuMTItMi41LTIuNXMxLjEyLTIuNSAyLjUtMi41IDIuNSAxLjEyIDIuNSAyLjUtMS4xMiAyLjUtMi41IDIuNXoiLz48L3N2Zz4%3D" alt="Based in" />
+<img src="https://img.shields.io/badge/Open_to-Remote_%C2%B7_Freelance_%C2%B7_Contract--to--hire-16A34A?style=for-the-badge&labelColor=334155&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg%3D%3D" alt="Open to" />
 </p>
 
 ## Tech Stack
@@ -48,6 +56,17 @@ I build backend systems that stay reliable under real traffic: queues, webhooks,
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/MVC-334155?style=flat-square&labelColor=334155" alt="MVC" />
+<img src="https://img.shields.io/badge/RESTful_APIs-334155?style=flat-square&labelColor=334155" alt="RESTful APIs" />
+<img src="https://img.shields.io/badge/Event--driven_systems-334155?style=flat-square&labelColor=334155" alt="Event-driven systems" />
+<img src="https://img.shields.io/badge/Laravel_Queues-334155?style=flat-square&labelColor=334155" alt="Laravel Queues" />
+<img src="https://img.shields.io/badge/Artisan_Commands-334155?style=flat-square&labelColor=334155" alt="Artisan Commands" />
+<img src="https://img.shields.io/badge/RBAC-334155?style=flat-square&labelColor=334155" alt="RBAC" />
+<img src="https://img.shields.io/badge/Custom_SMTP-334155?style=flat-square&labelColor=334155" alt="Custom SMTP" />
+<img src="https://img.shields.io/badge/Test--driven-334155?style=flat-square&labelColor=334155" alt="Test-driven" />
+</p>
+
 ## What I Build
 
 <a href="https://muhammad-farooq.vercel.app"><img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/cards.svg" width="100%" alt="Focus areas and selected work" /></a>
@@ -59,8 +78,10 @@ I build backend systems that stay reliable under real traffic: queues, webhooks,
 <br>
 
 - Lead and manage the development team: assign tasks, track daily progress, give technical guidance
+- Provide technical guidance and support to resolve development challenges
 - Run code reviews to enforce coding standards and best practices
 - Plan task distribution by team members' skills and project priorities
+- Coordinate with the team to resolve technical issues and ensure timely project delivery
 - Oversee development, testing and deployment to keep code quality and project stability high
 
 </details>
@@ -69,7 +90,8 @@ I build backend systems that stay reliable under real traffic: queues, webhooks,
 <summary><b>Software Developer</b> · Migastone App Development · <i>Jan 2020 – Dec 2024</i></summary>
 <br>
 
-- Designed and built software solutions for client business problems
+- Designed and built software solutions to solve pain points for various clients
+- Fixed errors and modified existing code
 - Built and maintained applications with Laravel, Zend, CodeIgniter, Vue 3, AngularJS and Bootstrap
 - Worked on the Migasender and Migachat backends, payment integrations and queue jobs
 
@@ -104,4 +126,4 @@ Badminton and table tennis.
 <img src="https://komarev.com/ghpvc/?username=social-muhammad-farooq&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:2563eb,55:1e3a8a,100:0b1220&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/footer.svg" width="100%" alt="Let's build something reliable together" />
