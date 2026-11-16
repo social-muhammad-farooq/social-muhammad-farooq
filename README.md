@@ -14,49 +14,17 @@
 
 ## About
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 Software engineer with **6+ years of production PHP experience**, specialising in **Laravel SaaS platforms, payment integrations and WhatsApp/AI messaging systems**.
 
 I lead the development team at **5D Solutions**: requirements, task planning, code review, release verification and production incident investigation.
 
 I build backend systems that stay reliable under real traffic: queues, webhooks, retries and safe automation. I work in test-driven environments and care about clean MVC structure, role-based access control and code other developers can maintain.
 
-</td>
-<td width="38%" valign="top">
-
-**Currently**<br>
-Team Lead at 5D Solutions
-
-**Based in**<br>
-Rawalpindi, Pakistan
-
-**Open to**<br>
-Remote roles · Freelance · Contract-to-hire
-
-**Core stack**<br>
-Laravel · PHP · MySQL · Redis · Vue 3
-
-</td>
-</tr>
-</table>
-
-## Focus Areas
-
-<table>
-<tr>
-<td width="33%" valign="top"><b>SaaS &amp; APIs</b><br><sub>Laravel REST APIs, queues and jobs, scheduled tasks, MySQL and Redis</sub></td>
-<td width="33%" valign="top"><b>Payments &amp; Billing</b><br><sub>Stripe, PayPal, Chargebee, NMI, Pagadito: recurring billing and failure handling</sub></td>
-<td width="33%" valign="top"><b>WhatsApp &amp; AI</b><br><sub>Meta Cloud API, broadcasts, delivery webhooks, OpenAI messaging workflows</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>Automation</b><br><sub>n8n, Make.com, Zapier, GoHighLevel: CRM and lead-to-invoice flows</sub></td>
-<td valign="top"><b>Auth &amp; Email</b><br><sub>Authentication, role-based access control, custom SMTP email systems</sub></td>
-<td valign="top"><b>Leadership</b><br><sub>Daily progress tracking, task distribution, code review, release verification</sub></td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Currently-Team_Lead_at_5D_Solutions-2563EB?style=flat-square&labelColor=0b1220" alt="Currently" />
+<img src="https://img.shields.io/badge/Based_in-Rawalpindi%2C_Pakistan-2563EB?style=flat-square&labelColor=0b1220" alt="Based in" />
+<img src="https://img.shields.io/badge/Open_to-Remote_%C2%B7_Freelance_%C2%B7_Contract--to--hire-16A34A?style=flat-square&labelColor=0b1220" alt="Open to" />
+</p>
 
 ## Tech Stack
 
@@ -80,24 +48,9 @@ Laravel · PHP · MySQL · Redis · Vue 3
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 </p>
 
-## Selected Work
+## What I Build
 
-<sub>Production codebases are private. Details and screenshots are on my <a href="https://muhammad-farooq.vercel.app">portfolio</a>.</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top"><b>Migasender</b><br>Multi-platform WhatsApp messaging SaaS with REST APIs, broadcasts and delivery webhooks.<br><sub>Laravel · Meta Cloud API · MySQL · Redis</sub></td>
-<td width="50%" valign="top"><b>Migachat</b><br>AI customer communication platform with messaging workflows.<br><sub>Laravel · OpenAI · Webhooks</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>Billing Platform</b><br>Subscriptions and invoices across five payment gateways, with recurring billing and failure handling.<br><sub>Stripe · PayPal · Chargebee · NMI · Pagadito</sub></td>
-<td valign="top"><b>Project Inbox</b><br>Automated email inbox provisioning with queued orders and safe cancellation.<br><sub>Laravel · Queues · Chargebee</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>Workflow Automation</b><br>CRM and lead-to-invoice automations.<br><sub>n8n · Make.com · Zapier · GoHighLevel</sub></td>
-<td valign="top"><b>More on my portfolio</b><br>Case studies, screenshots and contact details.<br><sub><a href="https://muhammad-farooq.vercel.app">muhammad-farooq.vercel.app</a></sub></td>
-</tr>
-</table>
+<a href="https://muhammad-farooq.vercel.app"><img src="https://raw.githubusercontent.com/social-muhammad-farooq/social-muhammad-farooq/main/assets/cards.svg" width="100%" alt="Focus areas and selected work" /></a>
 
 ## Experience
 
@@ -133,11 +86,9 @@ Laravel · PHP · MySQL · Redis · Vue 3
 
 ## Education &amp; Certification
 
-| | |
-|:--|:--|
-| **Master of Computer Science** | PMAS-Arid Agriculture University, Rawalpindi · 2015–2017 |
-| **BSc Computer Science** | University of Gujrat · 2012–2014 |
-| **Huawei Certified Network Associate (HCNA)** | Networking certification |
+- **Master of Computer Science**: PMAS-Arid Agriculture University, Rawalpindi · 2015–2017
+- **BSc Computer Science**: University of Gujrat · 2012–2014
+- **Huawei Certified Network Associate (HCNA)**
 
 ## Beyond Code
 
